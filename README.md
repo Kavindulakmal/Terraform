@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://shorturl.at/s4tlA" alt="Terraform" width="100"/>
   <img src="https://shorturl.at/neiwV" alt="AWS" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="100"/>
+  <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Azure" width="100"/>
 </p>
 
 This repository contains practice work with Terraform for both AWS and Azure environments. The work is organized into separate branches for clarity and ease of use.
