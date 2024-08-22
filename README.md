@@ -39,3 +39,7 @@ git checkout azure
 
 ## Contributing
 Feel free to fork this repository and contribute by adding new configurations or improving existing ones. Pull requests are welcome!
+Happy Coding!!!
+
+## Copyright
+© KAVINDU™ 2024
