@@ -1,6 +1,6 @@
 # Terraform
 
-This repository contains my practice work with Terraform for both AWS and Azure environments. The work is organized into separate branches for clarity and ease of use.
+This repository contains practice work with Terraform for both AWS and Azure environments. The work is organized into separate branches for clarity and ease of use.
 
 ## Branches
 
@@ -20,7 +20,7 @@ git clone https://github.com/Kavindulakmal/Terraform.git
 
 - **For AWS:**
 ```bash
-git checkout was
+git checkout aws
 ```
 - **For AZURE:**
 ```bash
@@ -38,7 +38,7 @@ git checkout azure
 - **Destroy**: Tear down the infrastructure with `terraform destroy` when done.
 
 ## Contributing
-Feel free to fork this repository and contribute by adding new configurations or improving existing ones. Pull requests are welcome!
+Feel free to fork this repository and contribute by adding new configurations or improving existing ones. Pull requests are welcome! <br>
 Happy Coding!!!
 
 ## Copyright
