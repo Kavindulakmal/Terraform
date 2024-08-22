@@ -30,3 +30,12 @@ git checkout azure
 - **Terraform: Ensure that Terraform is installed on your machine. You can download it from the [official website.](https://www.terraform.io/)**
 - **[AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) (for AWS configurations)**
 - **[Azure CLI](https://learn.microsoft.com/en-us/cli/azure/) (for Azure configurations)**
+
+## Usage
+- **Initialize Terraform: Run `terraform init` in the respective branch directory to initialize Terraform.**
+- **Plan: Review the execution plan with `terraform plan`.**
+- **Apply: Deploy the infrastructure with `terraform apply`.**
+- **Destroy: Tear down the infrastructure with `terraform destroy` when done.**
+
+## Contributing
+Feel free to fork this repository and contribute by adding new configurations or improving existing ones. Pull requests are welcome!
