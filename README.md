@@ -1,5 +1,11 @@
 # Terraform
 
+<p align="center">
+  <img src="https://www.terraform.io/assets/images/logo-hashicorp-3f10732f.svg" alt="Terraform" width="100"/>
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="100"/>
+</p>
+
 This repository contains practice work with Terraform for both AWS and Azure environments. The work is organized into separate branches for clarity and ease of use.
 
 ## Branches
