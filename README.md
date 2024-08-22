@@ -28,5 +28,5 @@ git checkout azure
 ```
 ## Prerequisites
 - **Terraform: Ensure that Terraform is installed on your machine. You can download it from the [official website.](https://www.terraform.io/)**
-- **[AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) (for AWS configurations) **
+- ** [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) (for AWS configurations) **
 - **[Azure CLI](https://learn.microsoft.com/en-us/cli/azure/) (for Azure configurations)**
