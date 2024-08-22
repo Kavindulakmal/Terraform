@@ -15,3 +15,14 @@ To clone the repository, use the following command:
 
 ```bash
 git clone https://github.com/Kavindulakmal/Terraform.git
+```
+### Switching Branches
+
+-**For AWS:**
+```bash
+git checkout was
+```
+-**For AZURE:**
+```bash
+git checkout azure
+```
