@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://shorturl.at/s4tlA" alt="Terraform" width="100"/>
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="100"/>
+  <img src="https://shorturl.at/neiwV" alt="AWS" width="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="100"/>
 </p>
 
