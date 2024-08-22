@@ -4,7 +4,7 @@ This repository contains my practice work with Terraform for both AWS and Azure 
 
 ## Branches
 
-- **was**: This branch contains Terraform configurations and scripts related to AWS (Amazon Web Services).
+- **aws**: This branch contains Terraform configurations and scripts related to AWS (Amazon Web Services).
 - **azure**: This branch contains Terraform configurations and scripts related to Azure (Microsoft's cloud platform).
 
 ## Getting Started
@@ -18,11 +18,13 @@ git clone https://github.com/Kavindulakmal/Terraform.git
 ```
 ### Switching Branches
 
--**For AWS:**
+- **For AWS:**
 ```bash
 git checkout was
 ```
--**For AZURE:**
+- **For AZURE:**
 ```bash
 git checkout azure
 ```
+## Prerequisites
+- **Terraform: Ensure that Terraform is installed on your machine. You can download it from the [official website.](https://www.terraform.io/)**
