@@ -1,7 +1,7 @@
 # Terraform
 
 <p align="center">
-  <img src="https://www.terraform.io/assets/images/logo-hashicorp-3f10732f.svg" alt="Terraform" width="100"/>
+  <img src="https://www.datocms-assets.com/2885/1629941242-brandhcterraformprimarycolorwhite.svg" alt="Terraform" width="100"/>
   <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="100"/>
 </p>
